@@ -1,6 +1,9 @@
 
 # 💫 About Me:
-I'm a quirky frontend developer from the sunny city of Sunderland, with 10+ years experience in web development. I started off as a PHP developer for a local hospitality company, then branched out into full stack before finding my true development love...frontend!<br><br>Currently, on my web development journey, I find my self doing a lot of ReactJs, trying out niche development projects & working on making the web more accessible. Since, I am also an accessibility user, & making a complex UI accessible can be quite the fun engineering challenge.
+Full stack developer with 10+ years experience who swapped Sunderland's "sunny" skies for Glasgow's characterful weather (still optimistic about that summer!). Somehow picked up a Northern American/Irish accent along the way – it's a conversation starter!
+My journey kicked off as a PHP developer for a local hospitality company, where I discovered my passion for creative problem-solving. After exploring the full stack landscape, I found my sweet spot: making frontend development feel effortless while embracing the eternal quest to center divs (we've all been there!).
+Currently thriving in the React ecosystem, building unique projects and championing web accessibility. As an accessibility tool user myself, I'm passionate about creating inclusive UIs – there's something deeply satisfying about making complex interfaces work beautifully for everyone. It's like solving the best kind of puzzle!
+When I'm not crafting components or embracing the detective work of debugging, you'll find me juggling personal projects, capturing Glasgow's south side through my lens, hitting the gym (it totally counts as a hobby!), or exploring the city on spontaneous walks that I definitely planned all along.
 
 
 ## 🌐 Socials:
